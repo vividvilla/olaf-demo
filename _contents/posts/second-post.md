@@ -1,6 +1,6 @@
-date: 2015-03-09
-updated: 2015-03-10
-title: Hello world!
+date: 2015-03-14
+updated: 2015-03-15
+title: This is second post
 summary: This will be the summary of the post.
 tags: [sample]
 
