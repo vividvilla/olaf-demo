@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Recent Articles</title>
   <id>http://localhost/recent.atom</id>
-  <updated>2015-03-10T00:00:00Z</updated>
+  <updated>2015-03-15T00:00:00Z</updated>
   <link href="http://localhost/" />
   <link href="http://localhost/recent.atom" rel="self" />
   <generator>Werkzeug</generator>
+  <entry xml:base="http://localhost/recent.atom">
+    <title type="text">Hello there!</title>
+    <id>http://vivek.github.io/new-post</id>
+    <updated>2015-03-15T00:00:00Z</updated>
+    <published>2015-03-14T00:00:00Z</published>
+    <link href="http://vivek.github.io/new-post" />
+    <author>
+      <name>Your name</name>
+    </author>
+    <content type="html">&lt;p&gt;Your content goes here, Happy blogging !!!&lt;/p&gt;
+&lt;p&gt;Olaf is super simple to setup and use, Learn handy commands &lt;a href=&quot;http://olaf.com&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry xml:base="http://localhost/recent.atom">
     <title type="text">Hello world!</title>
     <id>http://vivek.github.io/hello-world</id>
