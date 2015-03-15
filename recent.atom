@@ -31,6 +31,18 @@
 &lt;p&gt;Olaf is super simple to setup and use, Learn handy commands &lt;a href=&quot;http://olaf.com&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://localhost/recent.atom">
+    <title type="text">Hello world!</title>
+    <id>http://vivek.github.io/second-post</id>
+    <updated>2015-03-10T00:00:00Z</updated>
+    <published>2015-03-09T00:00:00Z</published>
+    <link href="http://vivek.github.io/second-post" />
+    <author>
+      <name>Your name</name>
+    </author>
+    <content type="html">&lt;p&gt;Your content goes here, Happy blogging !!!&lt;/p&gt;
+&lt;p&gt;Olaf is super simple to setup and use, Learn handy commands &lt;a href=&quot;http://olaf.com&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://localhost/recent.atom">
     <title type="text">Typography</title>
     <id>http://vivek.github.io/typography</id>
     <updated>2015-01-01T00:00:00Z</updated>
